@@ -8,5 +8,6 @@ int main() {
     // Hello tôi đang học git nhé mọi người
     int a = 10;
     int j = a - 5;
+    int b = 20;
     return 0;
 }
