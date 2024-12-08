@@ -12,5 +12,6 @@ int main() {
     int abc = 10;
     int b;
     int c;
+    int d;
     return 0;
 }
