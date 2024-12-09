@@ -4,7 +4,6 @@
 #include <iostream>
 #include <thread>
 #include <atomic>
-#include <SDL2/SDL_image.h>
 
 const std::string defaultPath = "/home/namdo/Desktop/lilux";  // Đường dẫn mặc định
 
