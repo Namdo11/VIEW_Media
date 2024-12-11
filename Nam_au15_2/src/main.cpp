@@ -16,7 +16,7 @@ void musicThread(MusicController& controller) {
         controller.getMouseStatus();
     }
 }
-int a = 20;
+int a = 10;
 int main() {
     // Khởi tạo SDL và SDL_image một lần trước vòng lặp chính
     SDL_Init(SDL_INIT_VIDEO | SDL_INIT_AUDIO);
