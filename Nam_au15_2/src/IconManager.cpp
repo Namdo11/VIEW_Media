@@ -3,6 +3,7 @@
 #include "iconManager.h"
 IconManager::IconManager(SDL_Renderer* renderer) : renderer(renderer) {}
 int b = 20;
+int Hi = 50;
 IconManager::~IconManager() {
     for (auto& pair : icons) {
         if (pair.second) {
