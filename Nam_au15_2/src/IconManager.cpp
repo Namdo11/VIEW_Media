@@ -2,7 +2,7 @@
 #include <iostream>
 #include "iconManager.h"
 IconManager::IconManager(SDL_Renderer* renderer) : renderer(renderer) {}
-
+int b = 20;
 IconManager::~IconManager() {
     for (auto& pair : icons) {
         if (pair.second) {
