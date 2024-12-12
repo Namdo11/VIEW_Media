@@ -4,6 +4,7 @@
 IconManager::IconManager(SDL_Renderer* renderer) : renderer(renderer) {}
 int b = 20;
 int Hi = 50;
+int Hello = 100;
 IconManager::~IconManager() {
     for (auto& pair : icons) {
         if (pair.second) {
