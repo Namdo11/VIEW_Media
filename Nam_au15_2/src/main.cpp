@@ -19,6 +19,7 @@ void musicThread(MusicController& controller) {
 int a = 10;
 int b = 20;
 int c = 30;
+int d = 40;
 int main() {
     // Khởi tạo SDL và SDL_image một lần trước vòng lặp chính
     SDL_Init(SDL_INIT_VIDEO | SDL_INIT_AUDIO);
