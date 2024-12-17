@@ -20,6 +20,7 @@ int a = 10;
 int b = 20;
 int c = 30;
 int d = 40;
+int e = 50;
 int main() {
     /*Xin chào mọi người tôi đang ở nhánh Hello */
     // Khởi tạo SDL và SDL_image một lần trước vòng lặp chính
